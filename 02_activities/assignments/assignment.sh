@@ -36,7 +36,7 @@ ls ./data/raw
 cd data
 mkdir processed
 cd processed
-mkdir server_logs user_logs events_logs
+mkdir server_logs user_logs event_logs
 
 # 5. Copy all server log files (files with "server" in the name AND a .log extension) from ./data/raw to ./data/processed/server_logs
 
